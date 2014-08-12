@@ -10,7 +10,7 @@ title: Gamer Anonymous
 
 *Gamer :-(*
 
-Now you understand. Let's go to Gamer Anonymoys
+Now you understand. Let's go to Gamer Anonymous.
 
 #### The Plan
 
