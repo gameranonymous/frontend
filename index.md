@@ -1,3 +1,7 @@
+---
+title: Gamer Anonymous
+---
+
 # Gamer Anonymous
 
 *Gamer*
