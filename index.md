@@ -10,6 +10,12 @@ Now you understand. Let's go to Gamer Anonymoys
 
 #### The Plan
 
+We aim to create an online gaming environment based on inclusivity, decency and safety.
+
+We want to enable more people from under represented or diverse groups to enjoy activities in gaming:
+
+- Casting games
+- Playing in esports tournements
 
 #### Impostors Welcome
 
