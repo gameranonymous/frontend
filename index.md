@@ -1,7 +1,9 @@
 # Gamer Anonymous
 
 *Gamer*
+
 *Gamer ?*
+
 *Gamer :-(*
 
 Now you understand. Let's go to Gamer Anonymoys
