@@ -1,12 +1,11 @@
 ---
 title: Gamer Anonymous
+layout: base
 ---
-
-# Gamer Anonymous
 
 Gamer Anonymous is a co-operative of gamers who want to create a nicer, more inclusive gaming environment to play in.
 
-#### The Plan
+## The Plan
 
 We aim to create an online gaming environment based on inclusivity, diversity and safety.
 
@@ -15,7 +14,7 @@ We want to enable more people from under represented or diverse groups to enjoy 
 - Casting games
 - Playing in esports tournements
 
-#### Impostors Welcome
+## Impostors Welcome
 
 If you’re from a background which isn’t well-represented in most gaming groups, come along – we want to make a difference.
 
@@ -31,7 +30,7 @@ We are interested in the social and gaming problems.
 
 This is a support group. No-one knows what they are doing.
 
-#### The Rules
+## The Rules
 
 A code of conduct applies wherever we gather to talk gamer. This is true both in person and online.
 
@@ -42,6 +41,6 @@ A code of conduct applies wherever we gather to talk gamer. This is true both in
 - We’d rather you ask about gender than assume, and if you get it wrong, apologise, and use what they prefer.
 - We think feminism is a good thing. Discussion of how to make computer more inclusive is welcome. Claims that this "has gone too far" aren’t.
 
-#### Links
+## Links
 
-[http://forums.gameranonymous.com](Forums)
+[Forums](http://forums.gameranonymous.com)
