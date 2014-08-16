@@ -4,17 +4,11 @@ title: Gamer Anonymous
 
 # Gamer Anonymous
 
-*Gamer*
-
-*Gamer ?*
-
-*Gamer :-(*
-
-Now you understand. Let's go to Gamer Anonymous.
+Gamer Anonymous is a co-operative of gamers who want to create a nicer, more inclusive gaming environment to play in.
 
 #### The Plan
 
-We aim to create an online gaming environment based on inclusivity, decency and safety.
+We aim to create an online gaming environment based on inclusivity, diversity and safety.
 
 We want to enable more people from under represented or diverse groups to enjoy activities in gaming:
 
