@@ -40,7 +40,3 @@ A code of conduct applies wherever we gather to talk gamer. This is true both in
 - Aggression and elitism are unwelcome here — gamering is not a competition (except when it's a tournament).
 - We’d rather you ask about gender than assume, and if you get it wrong, apologise, and use what they prefer.
 - We think feminism is a good thing. Discussion of how to make computer more inclusive is welcome. Claims that this "has gone too far" aren’t.
-
-## Links
-
-[Forums](http://forums.gameranonymous.com)
