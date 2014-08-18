@@ -45,7 +45,3 @@ A code of conduct applies wherever we gather to talk gamer. This is true both in
 - Use sexist, homophobic, transphobic, ableist, racist or otherwise exclusionary language. Don’t make exclusionary jokes. Don’t even make them "ironically".
 - Troll people. Trolling can unintentionally be really hurtful. It is also really easy for people to misinterprit what you are saying
 – Harass people.
-
-## Links
-
-[Forums](http://forums.gameranonymous.com)
