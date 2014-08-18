@@ -7,12 +7,12 @@ Gamer Anonymous is a co-operative of gamers who want to create a nicer, more inc
 
 ## The Plan
 
-We want to provide a community 'clan' type environment including Forums, IRC chatrooms, TeamSpeak servers, Casting, e-sports tournements and more.
+We want to provide a community 'clan' type environment including Forums, IRC chatrooms, TeamSpeak servers, Casting, e-sports tournaments and more.
 
 We want to enable more people from under represented or diverse groups to enjoy activities in gaming:
 
 - Casting games
-- Playing in esports tournements
+- Playing in esports tournaments
 
 We want to educate by hosting public discussions on inclusivity and diversity, and leading by example.
 
@@ -34,11 +34,11 @@ A code of conduct applies. This is true both in person and online.
 - Don’t harass people. Unconsented physical contact or sexual attention is harrassment. Dressing or acting in a certain way is not consent.
 - Aggression and elitism are unwelcome here — gamering is not a competition (except when it's a tournament).
 - We’d rather you ask about gender than assume, and if you get it wrong, apologise, and use what they prefer.
-- We think feminism is a good thing. Discussion of how to make computer more inclusive is welcome. Claims that this "has gone too far" aren’t.
+- We think feminism is a good thing. Discussion of how to make gamer anonymous more inclusive is welcome. Claims that this "has gone too far" aren’t.
 - We do not troll other gamers in or out of our community.
 
 ## Contributing
 
-- Join us on IRC. We are in #gameranonymouys Freenode.
+- Join us on IRC. We are in #gameranonymous on Freenode.
 - ['Fork' this website](https://github.com/gameranonymous/frontend). Submit 'pull-requests' to this website, this is a work in progress.
 - Help is needed, [we have a number of open issues on github](https://github.com/gameranonymous/frontend/issues) of things that we need.
