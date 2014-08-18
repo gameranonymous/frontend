@@ -35,7 +35,7 @@ A code of conduct applies. This is true both in person and online.
 - Aggression and elitism are unwelcome here — gamering is not a competition (except when it's a tournament).
 - We’d rather you ask about gender than assume, and if you get it wrong, apologise, and use what they prefer.
 - We think feminism is a good thing. Discussion of how to make gamer anonymous more inclusive is welcome. Claims that this "has gone too far" aren’t.
-- We do not troll other gamers in or out of our community.
+- Trolling is also no welcome. We do not troll other people in or out of our community.
 
 ## Contributing
 
