@@ -34,12 +34,17 @@ This is a support group. No-one knows what they are doing.
 
 A code of conduct applies wherever we gather to talk gamer. This is true both in person and online.
 
-
 - We want to be inclusive; do not engage in homophobic, racist, transphobic, ableist, sexist, or otherwise exclusionary behavior. Don’t make exclusionary jokes. Don’t even make them "ironically".
 - Don’t harass people. Unconsented physical contact or sexual attention is harrassment. Dressing or acting in a certain way is not consent.
 - Aggression and elitism are unwelcome here — gamering is not a competition (except when it's a tournament).
 - We’d rather you ask about gender than assume, and if you get it wrong, apologise, and use what they prefer.
 - We think feminism is a good thing. Discussion of how to make computer more inclusive is welcome. Claims that this "has gone too far" aren’t.
+
+### Do not
+
+- Use sexist, homophobic, transphobic, ableist, racist or otherwise exclusionary language. Don’t make exclusionary jokes. Don’t even make them "ironically".
+- Troll people. Trolling can unintentionally be really hurtful. It is also really easy for people to misinterprit what you are saying
+– Harass people.
 
 ## Links
 
