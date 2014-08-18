@@ -40,5 +40,5 @@ A code of conduct applies. This is true both in person and online.
 ## Contributing
 
 - Join us on IRC. We are in #gameranonymous on Freenode.
-- ['Fork' this website](https://github.com/gameranonymous/frontend). Submit 'pull-requests' to this website, this is a work in progress.
+- ['Fork' this website](https://github.com/gameranonymous/frontend) then submit a 'pull-request', gamer anonymous is a work in progress. If you don't know how to use github ask on IRC.
 - Help is needed, [we have a number of open issues on github](https://github.com/gameranonymous/frontend/issues) of things that we need.
