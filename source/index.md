@@ -1,6 +1,6 @@
 ---
 title: Gamer Anonymous
-layout: base
+layout: layout
 ---
 
 Gamer Anonymous is a co-operative of gamers who want to create a nicer, more inclusive gaming environment to play in.
