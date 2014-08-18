@@ -36,3 +36,9 @@ A code of conduct applies. This is true both in person and online.
 - We’d rather you ask about gender than assume, and if you get it wrong, apologise, and use what they prefer.
 - We think feminism is a good thing. Discussion of how to make computer more inclusive is welcome. Claims that this "has gone too far" aren’t.
 - We do not troll other gamers in or out of our community.
+
+## Contributing
+
+- Join us on IRC. We are in #gameranonymouys Freenode.
+- ['Fork' this website](https://github.com/gameranonymous/frontend). Submit 'pull-requests' to this website, this is a work in progress.
+- Help is needed, [we have a number of open issues on github](https://github.com/gameranonymous/frontend/issues) of things that we need.
