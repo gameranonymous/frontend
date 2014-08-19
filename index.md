@@ -11,8 +11,8 @@ We want to provide a community 'clan' type environment including Forums, IRC cha
 
 We want to enable more people from under represented or diverse groups to enjoy activities in gaming:
 
-- Casting games
-- Playing in esports tournaments
+- Casting games.
+- Playing in esports tournaments.
 
 We want to educate by hosting public discussions on inclusivity and diversity, and leading by example.
 
