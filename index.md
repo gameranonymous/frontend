@@ -32,6 +32,7 @@ A code of conduct applies. This is true both in person and online.
 
 - We want to be inclusive; do not engage in homophobic, racist, transphobic, ableist, sexist, or otherwise exclusionary behavior. Don't make exclusionary jokes. Don't even make them "ironically".
 - Don't harass people. Unconsented physical contact or sexual attention is harrassment. Dressing or acting in a certain way is not consent.
+– Rape culture is a bad thing. Do not make rape or sexual comments to people, games or objects.
 - Aggression and elitism are unwelcome here — gamering is not a competition (except when it's a tournament).
 - We'd rather you ask about gender than assume, and if you get it wrong, apologise, and use what they prefer.
 - We think feminism is a good thing. Discussion of how to make gamer anonymous more inclusive is welcome. Claims that this "has gone too far" aren't.
