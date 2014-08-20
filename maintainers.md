@@ -26,3 +26,7 @@ Please speak to these people if you need help with any of our services.
 ## IRC Channel (#gameranonymous)
 
 [@didlix](http://github.com/didlix)
+
+## Domain Name (gameranonymous.com)
+
+[@didlix](http://github.com/didlix)
