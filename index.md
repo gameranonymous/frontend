@@ -3,7 +3,9 @@ title: Gamer Anonymous
 layout: base
 ---
 
-Gamer Anonymous is a co-operative of gamers who want to create a nicer, more inclusive gaming community.
+Gamer Anonymous is a co-operative of people who want to create a nicer, more inclusive gaming community.
+
+Gamer Anonymous is not a clan, tribe or clique.
 
 ## The Plan
 
