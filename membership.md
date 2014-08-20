@@ -5,6 +5,8 @@ layout: base
 
 ## Joining our community
 
+As a co-operative, members don't just join the community, they help to run, maintain, and grow it.
+
 Anyone who wishes to be a member of the community agrees to the following principles:
 
 1. Continued respect for the Code of Conduct and being willing to be guided under it.
