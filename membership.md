@@ -17,3 +17,10 @@ Anyone who wishes to be a member of the community agrees to the following princi
   d. Review and implementation of digital infrastructure (code reviews, server maintenance, etc)
 
 Applications are opening soon.
+
+
+## Benefits
+
+- Access to private forums, vetted from harrasment
+– Access to private team speak channels
+...
