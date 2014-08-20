@@ -137,7 +137,7 @@ span.logo {
   display: block;
   height: 100%;
   width: 100%;
-  background: url("http://gameranonymous.com/images/logo.jpg");
+  background: url("../images/logo.jpg");
   background-size: 100%;
   -webkit-border-radius: 60px; /* Saf3+, Chrome */
   border-radius: 60px; /* Opera 10.5, IE 9 */
