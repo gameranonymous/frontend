@@ -1,5 +1,5 @@
 ---
-title: Gamer Anonymous - Forums
+title: Gamer Anonymous – Forums
 layout: base
 ---
 
