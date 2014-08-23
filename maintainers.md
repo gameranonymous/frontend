@@ -7,21 +7,21 @@ Please speak to these people if you need help with any of our services.
 
 ## IRC Bot (ganonbot)
 
-[@didlix](http://github.com/didlix) | [Gittip](https://www.gittip.com/didlix/)
+[@didlix](http://github.com/didlix) – [Gittip](https://www.gittip.com/didlix/)
 
 ## Github Repos
 
-- [@didlix](http://github.com/didlix) | [Gittip](https://www.gittip.com/didlix/)
+- [@didlix](http://github.com/didlix) – [Gittip](https://www.gittip.com/didlix/)
 - [@sw17ch](http://github.com/sw17ch)
 
 ## Forums
 
-[@didlix](http://github.com/didlix) | [Gittip](https://www.gittip.com/didlix/)
+[@didlix](http://github.com/didlix) – [Gittip](https://www.gittip.com/didlix/)
 
 ## IRC Channel (#gameranonymous)
 
-[@didlix](http://github.com/didlix) | [Gittip](https://www.gittip.com/didlix/)
+[@didlix](http://github.com/didlix) – [Gittip](https://www.gittip.com/didlix/)
 
 ## Domain Name (gameranonymous.com)
 
-[@didlix](http://github.com/didlix) | [Gittip](https://www.gittip.com/didlix/)
+[@didlix](http://github.com/didlix) – [Gittip](https://www.gittip.com/didlix/)
