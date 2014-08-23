@@ -9,7 +9,7 @@ Gamer Anonymous is not a clan, tribe or clique.
 
 ## The Plan
 
-We want to provide a community 'clan' type environment including Forums, IRC chatrooms, TeamSpeak servers, Casting, e-sports tournaments and more.
+We want to provide a community environment including Forums, IRC chatrooms, TeamSpeak servers, Casting, e-sports tournaments and more.
 
 We want to enable more people from under represented or diverse groups to enjoy activities in gaming:
 
@@ -39,6 +39,7 @@ A code of conduct applies. This is true both in person and online.
 - We'd rather you ask about gender than assume, and if you get it wrong, apologise, and use what they prefer.
 - We think feminism is a good thing. Discussion of how to make gamer anonymous more inclusive is welcome. Claims that this "has gone too far" aren't.
 - Trolling is also not welcome. We do not troll other people in or out of our community.
+– Please donot involve Gamer Anonymous in 'clan wars', we are not a clan.
 
 ## Contributing
 
