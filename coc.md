@@ -1,6 +1,6 @@
 ---
 title: Code of Conduct
-layout: page
+layout: base
 ---
 
 <div class="row">
