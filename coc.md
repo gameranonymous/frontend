@@ -7,7 +7,7 @@ layout: base
 	<div class="small-12 columns">
 		<a name="overview"></a>
 		<h1>Code of Conduct</h1>
-		<p><span class="label radius">Note:</span> Gamer Anonymous in this document refers to the Gamer Anonymous community at gameranonymous.com &ldquo;The administrators&rdquo; refers to the administrators on this organization, a list is available at the top of the <a href="http://gameranonymous.com/maintainers.html">maintainers page</a></p>
+		<p><span class="label radius">Note:</span> Gamer Anonymous in this document refers to the Gamer Anonymous community at gameranonymous.com &ldquo;The administrators&rdquo; refers to the administrators on this community, a list is available at the top of the <a href="http://gameranonymous.com/maintainers.html">maintainers page</a></p>
 
 		<p>Gamer Anonymous is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.</p>
 
@@ -46,33 +46,33 @@ layout: base
 			</div>
 		</div>
 
-		<h3>LGBTQ in Technology prioritizes marginalized people&rsquo;s safety over privileged people&rsquo;s comfort. The administrators will not act on complaints regarding:</h3>
+		<h3>Gamer Anonymous prioritises marginalised people&rsquo;s safety over privileged people&rsquo;s comfort. The administrators will not act on complaints regarding:</h3>
 
 		<ul>
 			<li>&ldquo;Reverse&rdquo;-isms, including &ldquo;reverse racism,&rdquo; &ldquo;reverse sexism,&rdquo; and &ldquo;cisphobia&rdquo;</li>
 			<li>Reasonable communication of boundaries, such as &ldquo;leave me alone,&rdquo; &ldquo;go away,&rdquo; or &ldquo;I&rsquo;m not discussing this with you.&rdquo;</li>
 			<li>Communicating in a &ldquo;tone&rdquo; you don&rsquo;t find congenial</li>
-			<li>Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions </li>
+			<li>Criticizing racist, sexist, cissexist, or otherwise oppressive behaviour or assumptions </li>
 		</ul>
 
 		<div class="hr"></div>
 		<a name="reporting"></a>
 		<h2>Reporting</h2>
 
-		<p>If you are being harassed by a member of LGBTQ in Tech, notice that someone else is being harassed, or have any other concerns, please contact the administrators by typing <code>/admin &lt;your message&gt;</code> in Slack, or contact an admin directly via DM. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.</p>
+		<p>If you are being harassed by a member of Gamer Anonymous, notice that someone else is being harassed, or have any other concerns, please contact the administrators. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.</p>
 
-		<p>This code of conduct applies to LGBTQ in Tech spaces, but if you are being harassed by a member of LGBTQ in Tech outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by LGBTQ in Tech members, especially the administrators, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from LGBTQ in Tech based on their past behavior, including behavior outside LGBTQ in Tech spaces and behavior towards people who are not in LGBTQ in Tech.</p>
+		<p>This code of conduct applies to Gamer Anonymous spaces, but if you are being harassed by a member of Gamer Anonymous outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by Gamer Anonymous members, especially the administrators, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from Gamer Anonymous based on their past behaviour, including behaviour outside Gamer Anonymous spaces and behaviour towards people who are not in Gamer Anonymous.</p>
 
 		<p>In order to protect volunteers from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.</p>
 
-		<p>We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we&rsquo;ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of LGBTQ in Tech members or the general public. We will not name harassment victims without their affirmative consent.</p>
+		<p>We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we&rsquo;ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of Gamer Anonymous members or the general public. We will not name harassment victims without their affirmative consent.</p>
 
 		<div class="hr"></div>
 		<a name="consequences"></a>
 		<h2>Consequences</h2>
 
-		<p>Participants asked to stop any harassing behavior are expected to comply immediately.</p>
+		<p>Participants asked to stop any harassing behaviour are expected to comply immediately.</p>
 
-		<p>If a participant engages in harassing behavior, the administrators may take any action they deem appropriate, up to and including expulsion from all LGBTQ in Tech spaces and identification of the participant as a harasser to other LGBTQ in Tech members or the general public. </p>
+		<p>If a participant engages in harassing behaviour, the administrators may take any action they deem appropriate, up to and including expulsion from all Gamer Anonymous spaces and identification of the participant as a harasser to other Gamer Anonymous members or the general public. </p>
 	</div>
 </div>
