@@ -16,4 +16,4 @@ Join us on IRC. We are in #gameranonymous on Freenode.
 
 ## Comms
 
-Coming Soon!
+[Twitter](http://twitter.com/whyGamerHQ)
